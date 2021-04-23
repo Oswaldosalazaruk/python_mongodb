@@ -1,4 +1,4 @@
-[{
+"users" : {[{
         "id": 1,
         "username": "Celesta",
         "last_name": "McKenney",
@@ -208,4 +208,4 @@
         "email": "ucreggant@ihg.com",
         "password": 1
     }
-]
+]}
